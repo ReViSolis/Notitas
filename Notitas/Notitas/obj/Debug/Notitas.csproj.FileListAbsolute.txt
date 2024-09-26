@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\bin\Debug\Notitas.exe.config
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\bin\Debug\Notitas.exe
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\bin\Debug\Notitas.pdb
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\obj\Debug\Notitas.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\obj\Debug\Notitas.Form1.resources
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\obj\Debug\Notitas.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\obj\Debug\Notitas.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\obj\Debug\Notitas.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\obj\Debug\Notitas.exe
+C:\Users\Lenovo\Downloads\Pro Avanzada\Notitas\Notitas\obj\Debug\Notitas.pdb
